@@ -1,0 +1,30 @@
+switch(state)
+{
+
+case 'd':
+break;
+
+case 'o':
+break;
+
+case 'z':
+break;
+
+case 'n':
+break;
+
+case 'm':
+break;
+
+case 'f':
+break;
+
+case 'q':
+break;
+
+case '1':
+break;
+case '2':
+break;
+
+}

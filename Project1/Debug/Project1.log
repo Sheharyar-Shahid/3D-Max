@@ -1,0 +1,18 @@
+﻿  Level 2.cpp
+c:\endless memories\project1\level 2.cpp(79): warning C4244: 'argument': conversion from 'double' to 'sf::Uint8', possible loss of data
+c:\endless memories\project1\level 2.cpp(101): warning C4018: '<': signed/unsigned mismatch
+c:\endless memories\project1\level 2.cpp(206): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+c:\endless memories\project1\level 2.cpp(208): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\endless memories\project1\level 2.cpp(209): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\endless memories\project1\level 2.cpp(210): warning C4244: 'argument': conversion from 'double' to 'sf::Uint8', possible loss of data
+  Level 1.cpp
+c:\endless memories\project1\level 1.cpp(126): warning C4244: 'argument': conversion from 'double' to 'sf::Uint8', possible loss of data
+c:\endless memories\project1\level 1.cpp(150): warning C4018: '<': signed/unsigned mismatch
+c:\endless memories\project1\level 1.cpp(274): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+c:\endless memories\project1\level 1.cpp(278): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\endless memories\project1\level 1.cpp(279): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\endless memories\project1\level 1.cpp(280): warning C4244: 'argument': conversion from 'double' to 'sf::Uint8', possible loss of data
+c:\endless memories\project1\level 1.cpp(284): warning C4244: 'argument': conversion from 'double' to 'sf::Uint8', possible loss of data
+  Generating Code...
+  Project1.vcxproj -> C:\Endless Memories\Debug\Project1.exe
+  Project1.vcxproj -> C:\Endless Memories\Debug\Project1.pdb (Full PDB)
