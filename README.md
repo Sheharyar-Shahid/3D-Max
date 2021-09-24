@@ -1,4 +1,4 @@
-# ENDLESS MEMORIES: C++ Game Project
+# ENDLESS MEMORIES - A C++ Game Project
 
 I remember my childhood, when I was 9 or 10, playing computer games was always an amazing experience. From Nokia’s classic snake game to Need for Speed II, every game was realistic in its own environment and equally aesthetic back then. It always stimulated me to seek the path how games are created and how the developers create such magical worlds that evoke pretty natural responses from the players.
 The quest has landed me to create my very own 3D game ‘Endless Memories’. It is a simple role playing game in which a character is lost and finally reunites with his wife. The plot is quite simple. The main focus of making this game was to research on graphical contexts of game making.
